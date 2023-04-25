@@ -8,7 +8,7 @@
 
             const string writingPath = @"C:\Users\nyanp\Desktop\test.txt";
 
-            FileReaderWriter.ReadWriteFile(path1, writingPath);
+            FileReaderWriter.ReadWriteFile(path0, writingPath);
         }
     }
 }
