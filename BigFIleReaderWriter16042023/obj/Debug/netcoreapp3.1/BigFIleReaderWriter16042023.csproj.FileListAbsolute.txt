@@ -1,0 +1,14 @@
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\obj\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.csproj.AssemblyReference.cache
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\obj\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\obj\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.AssemblyInfoInputs.cache
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\obj\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.AssemblyInfo.cs
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\obj\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.csproj.CoreCompileInputs.cache
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\bin\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.exe
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\bin\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.deps.json
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\bin\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.runtimeconfig.json
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\bin\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.runtimeconfig.dev.json
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\bin\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.dll
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\bin\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.pdb
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\obj\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.dll
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\obj\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.pdb
+C:\Users\nyanp\source\repos\BigFIleReaderWriter16042023\BigFIleReaderWriter16042023\obj\Debug\netcoreapp3.1\BigFIleReaderWriter16042023.genruntimeconfig.cache
